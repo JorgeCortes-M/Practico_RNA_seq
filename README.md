@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Curso de Bioinformática, segundo semestre 2023 </h1>
+<h1 style="text-align: center;"> Curso de Bioinformática, segundo semestre 2024 </h1>
 <h2 style="text-align: center;"> Práctico de RNA-seq </h2>
 <p style="text-align: center;"> Jorge Cortés-Miranda & Caren Vega-Retter</p>
 
