@@ -78,15 +78,6 @@ samtools view IM2H.sam | head -n 1
 
 Esto nos mostrará la primera línea de nuestro archivo SAM, analicémosla.
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
----
 
 
 ### **Cuantificación**
